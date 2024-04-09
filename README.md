@@ -1,2 +1,2 @@
 # 100JSChallenge
-JavaScript and TypeScript
+JavaScript and TypeScript challenges
